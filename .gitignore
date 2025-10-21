@@ -1,0 +1,26 @@
+# Blender autosave/backup files
+*.blend1
+*.blend2
+*.blend@
+*.blend~
+
+# Blender temp files
+*.blend.lock
+
+# Thumbnails and previews
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+# Render outputs and caches
+*.exr
+*.hdr
+*.tga
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.blend1
+*.blend1
